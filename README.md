@@ -7,11 +7,10 @@
 ## :tada:  Live Examples (for this repo)
 
 ### &#8627; Stargazers
-[![Stargazers repo roster for @nastyox/Repo-Roster](https://reporoster.com/stars/nastyox/Repo-Roster)](https://github.com/nastyox/Repo-Roster/stargazers)
+[![Stargazers repo roster for @hua74ni/JavaAdvance-Interview](https://reporoster.com/stars/hua74ni/JavaAdvance-Interview)](https://github.com/hua74ni/JavaAdvance-Interview/stargazers)
 
 ### &#8627; Forkers
-[![Forkers repo roster for @nastyox/Repo-Roster](https://reporoster.com/forks/nastyox/Repo-Roster)](https://github.com/nastyox/Repo-Roster/network/members)
-
+[![Forkers repo roster for @hua74ni/JavaAdvance-Interview](https://reporoster.com/forks/hua74ni/JavaAdvance-Interview)](https://github.com/hua74ni/JavaAdvance-Interview/network/members)
 
 ## Java集合容器
 
