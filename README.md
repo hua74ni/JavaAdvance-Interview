@@ -4,6 +4,14 @@
 ![image](https://user-images.githubusercontent.com/28288225/156381520-170ef8d5-14b8-4ba9-b5cd-dd6192f65207.png)
 
 
+## :tada:  Live Examples (for this repo)
+
+### &#8627; Stargazers
+[![Stargazers repo roster for @nastyox/Repo-Roster](https://reporoster.com/stars/nastyox/Repo-Roster)](https://github.com/nastyox/Repo-Roster/stargazers)
+
+### &#8627; Forkers
+[![Forkers repo roster for @nastyox/Repo-Roster](https://reporoster.com/forks/nastyox/Repo-Roster)](https://github.com/nastyox/Repo-Roster/network/members)
+
 
 ## Java集合容器
 
