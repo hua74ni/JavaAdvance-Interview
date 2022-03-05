@@ -5,11 +5,11 @@
 
 
 
-![](https://img.shields.io/static/v1?label=bestjavaer&message=操作系统&color=blue)![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机基础&color=<COLOR>)![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机网络&color=yellowgreen)
+![](https://img.shields.io/static/v1?label=bestjavaer&message=操作系统&color=blue)   ![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机基础&color=<COLOR>)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机网络&color=yellowgreen)
 
-![](https://img.shields.io/static/v1?label=bestjavaer&message=Java基础&color=orange)![](https://img.shields.io/static/v1?label=bestjavaer&message=设计模式&color=success)![](https://img.shields.io/static/v1?label=bestjavaer&message=JVM&color=important)![](https://img.shields.io/static/v1?label=bestjavaer&message=Java并发&color=9cf)
+![](https://img.shields.io/static/v1?label=bestjavaer&message=Java基础&color=orange)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=设计模式&color=success)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=JVM&color=important)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=Java并发&color=9cf)
 
-![](https://img.shields.io/static/v1?label=bestjavaer&message=Spring&color=blueviolet)![](https://img.shields.io/static/v1?label=bestjavaer&message=SpringBoot&color=informational)![](https://img.shields.io/static/v1?label=bestjavaer&message=Springcloud&color=ff69b4)
+![](https://img.shields.io/static/v1?label=bestjavaer&message=Spring&color=blueviolet)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=SpringBoot&color=informational)  ![](https://img.shields.io/static/v1?label=bestjavaer&message=Springcloud&color=ff69b4)
 
 
 <img width="905" alt="image" src="https://user-images.githubusercontent.com/27909365/156884508-2d60bc08-2322-4d26-b6be-9339986aa06b.png">
@@ -300,7 +300,7 @@
 
 
 
-## 🏆 Netty
+## 🎉 Netty
 
 1. Netty
 2. I/O 模式
@@ -320,9 +320,27 @@
 
  
 
+## 🏆 一线大厂面试题
+
+1. 百度篇
+2. 滴滴篇
+3. 华为篇
+4. 京东篇
+5. 美团篇
+6. 腾讯篇
+7. 头条篇
+
+ ......
+
+
 
 ---
 
-![qrcode_for_gh_7612c42dcad3_258](https://user-images.githubusercontent.com/28288225/156195397-8e97e523-a5e8-4327-8b35-cefc081e3ba8.jpg)
+**<font face="宋体" color=red>持续更新中！**
 
-扫码关注公众号 **Java架构师进阶编程**，回复 **面试** 白嫖所有资源
+![image](https://user-images.githubusercontent.com/27909365/156886582-98607a79-b53c-4444-a194-145c992f5777.png)
+
+
+ 关注公众号：**Java架构师进阶编程**，回复 <font face="宋体" color=red>面试</font> ，获取上百份面试资源！ 
+
+![qrcode_for_gh_7612c42dcad3_258](https://user-images.githubusercontent.com/28288225/156195397-8e97e523-a5e8-4327-8b35-cefc081e3ba8.jpg)
